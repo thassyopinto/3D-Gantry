@@ -1,6 +1,6 @@
-This is a 3D simulation of a 4-DOF Gantry system
+This is a 3D simulation of a 4-DOF Gantry system.
 
-Required Python external packages:
+**Required Python external packages:**
 
 1. Anaconda for Python 3.7
 
