@@ -6,7 +6,7 @@ First, download and install [Anaconda](https://www.anaconda.com/) for Python 3.7
 bash ~/Downloads/Anaconda3-[your_version]-Linux-x86_64.sh
 ```
 
-**Required Python external packages:**
+Then, install Python external packages:
 
 1. [VPython](https://www.vpython.org/)
 
