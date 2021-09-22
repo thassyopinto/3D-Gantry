@@ -1,6 +1,6 @@
 This is a 3D simulation of a 4-DOF gantry system.
 
-First, install [Anaconda](https://www.anaconda.com/) for Python 3.7:
+First, download and install [Anaconda](https://www.anaconda.com/) for Python 3.7:
 
 ```console
 bash ~/Downloads/Anaconda3-[your_version]-Linux-x86_64.sh
