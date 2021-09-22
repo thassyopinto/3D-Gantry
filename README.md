@@ -5,7 +5,7 @@ Required Python external packages:
 1. Anaconda for Python 3.7
 
 ```console
-bash ~/Downloads/Anaconda3-xx-Linux-x86_64.sh
+bash ~/Downloads/Anaconda3-[your_version]-Linux-x86_64.sh
 ```
 
 2. VPython
